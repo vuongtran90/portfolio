@@ -55,6 +55,9 @@ display: inline-block;
 margin-left: 40px;
 line-height: 1px;
 }
+.header .navigation a:hover {
+text-decoration: underline;
+}
 .hero {
 text-transform: uppercase;
 font-size: 70px;
