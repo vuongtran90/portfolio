@@ -62,9 +62,8 @@ text-decoration: underline;
 text-transform: uppercase;
 font-size: 70px;
 font-weight: 700;
-margin-top: 300px;
-margin-bottom: 300px;
-text-align: center;
+padding: 5% 10%;
+margin: 15% 0;
 }
 .about_hero span,
 .hero .title span {
