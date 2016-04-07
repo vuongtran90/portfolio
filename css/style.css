@@ -388,6 +388,9 @@ float: right;
 display: inline-block;
 margin-right: 20px;
 }
+.footer ul li a:hover {
+text-decoration: underline;
+}
 .about_hero {
 -webkit-animation-delay: 1s;
 animation-delay: 1s;
