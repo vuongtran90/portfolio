@@ -14,6 +14,9 @@ html {
 text-rendering: optimizeLegibility !important;
 -webkit-font-smoothing: antialiased !important;
 }
+.mb2r {
+margin-bottom: 2rem;
+}
 .wrapper {
 min-height: 100%;
 margin: 0 auto;
