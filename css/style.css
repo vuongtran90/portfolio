@@ -1,10 +1,100 @@
+@font-face {
+  font-family: 'Apercu bold italic';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f0c8f2d619bdc13d3d2792_apercu_bold_italic-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f0c8f17a0b2d237271c00c_apercu_bold_italic-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f0c8f27a0b2d237271c00e_apercu_bold_italic-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f0c8f17a0b2d237271c00d_apercu_bold_italic-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f0c8f220b4d4ca3dde3a6f_apercu_bold_italic-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Apercu bold';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2561f11273cb52ac47e24_apercu_bold-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2561e92936c517e191efc_apercu_bold-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2561f3b646f43524abce8_apercu_bold-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2561f6d1541507eedcbe3_apercu_bold-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2561f6d1541507eedcbe4_apercu_bold-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Apercu italic';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25bac11273cb52ac48541_apercu_italic-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25bac92936c517e192164_apercu_italic-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25bac11273cb52ac48542_apercu_italic-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25bac3b646f43524ac2bc_apercu_italic-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25bac32bf3fb02ad125c6_apercu_italic-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Apercu light italic';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c08acfdc04c5240666a_apercu_light_italic-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c0892936c517e192172_apercu_light_italic-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c0892936c517e192173_apercu_light_italic-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c0892936c517e192174_apercu_light_italic-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c0892936c517e192175_apercu_light_italic-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Apercu light';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f266522da54da36eb45d53_apercu_light-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2665292936c517e1939c7_apercu_light-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f266523b646f43524ad719_apercu_light-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f266522da54da36eb45d54_apercu_light-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2665292936c517e1939c8_apercu_light-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Apercu medium italic';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c5632bf3fb02ad1261b_apercu_medium_italic-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c563b646f43524ac2e1_apercu_medium_italic-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c5611273cb52ac4861e_apercu_medium_italic-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c56acfdc04c5240666d_apercu_medium_italic-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c566d1541507eedd2b5_apercu_medium_italic-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Apercu medium';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c8711273cb52ac48765_apercu_medium-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c8792936c517e1921a5_apercu_medium-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c876d1541507eedd2ba_apercu_medium-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c8832bf3fb02ad1261e_apercu_medium-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25c883b646f43524ac2e6_apercu_medium-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Apercu mono';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25cb192936c517e1923d0_apercu_mono-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25cb13b646f43524ac2f8_apercu_mono-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25cb16d1541507eedd2bf_apercu_mono-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25cb192936c517e1923d1_apercu_mono-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25cb132bf3fb02ad12624_apercu_mono-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Apercu regular';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25ccb32bf3fb02ad12627_apercu_regular-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25ccb3b646f43524ac2fc_apercu_regular-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25ccb6d1541507eedd31e_apercu_regular-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25ccb11273cb52ac4876f_apercu_regular-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f25ccbacfdc04c52406679_apercu_regular-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tiempos text regular italic';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2685192936c517e193f06_tiempos_text_regular_italic-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268512da54da36eb45e57_tiempos_text_regular_italic-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268512da54da36eb45e58_tiempos_text_regular_italic-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268513b646f43524ada47_tiempos_text_regular_italic-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268513b646f43524ada48_tiempos_text_regular_italic-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Tiempos text regular';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f26891d9cb98a86e4de78f_tiempos_text_regular-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268912da54da36eb45ea0_tiempos_text_regular-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f26891d9cb98a86e4de790_tiempos_text_regular-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f26892d9cb98a86e4de791_tiempos_text_regular-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f26892d9cb98a86e4de792_tiempos_text_regular-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tiempos text semibold italic';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268c8acfdc04c52407686_tiempos_text_semibold_italic-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268c892936c517e193fca_tiempos_text_semibold_italic-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268c83b646f43524adb66_tiempos_text_semibold_italic-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268c992936c517e193fcb_tiempos_text_semibold_italic-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f268c9d9cb98a86e4de797_tiempos_text_semibold_italic-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Tiempos text semibold';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f269023b646f43524adb83_tiempos_text_semibold-webfont.woff2') format('woff2'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f26902d9cb98a86e4de7ab_tiempos_text_semibold-webfont.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f269023b646f43524adb84_tiempos_text_semibold-webfont.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f2690292936c517e193fd7_tiempos_text_semibold-webfont.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/56f26902d9cb98a86e4de7ac_tiempos_text_semibold-webfont.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Tiemposheadline';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/5996a8167488150001d1c08a_TiemposHeadline-Medium.eot') format('embedded-opentype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/5996a8166dd4d50001b7f385_TiemposHeadline-Medium.woff') format('woff'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/5996a8163f1ad60001cd0169_TiemposHeadline-Medium.ttf') format('truetype'), url('https://daks2k3a4ib2z.cloudfront.net/56e7dd1a0b15f5eb36389d7f/5996a8167488150001d1c08b_TiemposHeadline-Medium.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
 a {
 text-decoration: none;
-color: #111;
+color: #333;
 }
-body {
-font-family: 'Open Sans', sans-serif;
+body {    
+font-family: 'Apercu light', sans-serif;
 font-size: 16px;
+opacity: 1;
+display: block;
+transition: opacity 600ms ease-in;
+color: #333;
+padding: 30px;
 }
 p,ul li {
 line-height: 25px;
@@ -18,16 +108,23 @@ text-rendering: optimizeLegibility !important;
 margin-bottom: 2rem;
 }
 .wrapper {
-min-height: 100%;
+width: 100%;
 margin: 0 auto;
+padding: 120px;
+box-shadow: 0 0 15px 5px rgba(241, 241, 241, 0.8);
+-webkit-transition: margin 250ms cubic-bezier(.25,.46,.45,.94),border .4s cubic-bezier(.55,.085,.68,.53);
+transition: margin 250ms cubic-bezier(.25,.46,.45,.94),border .4s cubic-bezier(.55,.085,.68,.53);
+text-decoration: none;
 }
-.wrapper {
-width: 70%;
+.inner-wrapper {       
+position: relative;
+width: 100%;
+height: 100%;
+max-width: 1200px;
+margin: 0 auto;
 }
 .header {
 margin: 0 auto;
-letter-spacing: 2px;
-padding: 3% 0;
 }
 .wrapper:after,
 .header:after {
@@ -36,22 +133,28 @@ display: table;
 clear: both;
 }
 .header .logo {
-font-size: 15px;
 text-transform: uppercase;
-font-weight: 700;
 float: left;
 position: relative;
 z-index: 10;
 -webkit-animation-delay: 0.2s;
 animation-delay: 0.2s;
 }
-.header .logo a span {
-font-weight: 400;
+.header .logo-mobile {
+display: none;
+}
+.header .logo a {
+font-family: 'Apercu medium', sans-serif;
+font-size: 48px;
+line-height: 60px;
+letter-spacing: -1px;
+text-transform: capitalize;
 }
 .header .navigation {
 float: right;
 -webkit-animation-delay: 0.2s;
 animation-delay: 0.2s;
+padding-top: 25px;
 }
 .header .navigation li {
 display: inline-block;
@@ -59,14 +162,95 @@ margin-left: 40px;
 line-height: 1px;
 }
 .header .navigation a:hover {
-text-decoration: underline;
+/*border-bottom: 3px solid #333;*/
+color: #ff0030
 }
+.header .navigation a.active {
+border-bottom: 3px solid #ff0030;
+color: #ff0030
+}
+.header .navigation a.active:before {
+  display: none
+}
+.header .navigation a.active:after {
+  display: none
+}
+.header .navigation a {
+font-family: 'Apercu regular',Arial,sans-serif;
+font-size: 20px;
+padding-bottom: 18px;
+display: inline-block;
+position: relative;
+}
+.header .navigation a:before,
+.header .navigation a:after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background-color: #ff0030;
+}
+
+.header .navigation a:before {
+  opacity: 0;
+  -webkit-transform: translateY(-8px);
+  -ms-transform: translateY(-8px);
+  transform: translateY(-8px);
+  -webkit-transition: -webkit-transform 0s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0s;
+  transition: transform 0s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0s;
+}
+
+.header .navigation a:after {
+  opacity: 0;
+  -webkit-transform: translateY(4px);
+  -ms-transform: translateY(4px);
+  transform: translateY(4px);
+  -webkit-transition: -webkit-transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.2s;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.2s;
+}
+
+.header .navigation a:hover:before,
+.header .navigation a:hover:after,
+.header .navigation a:focus:before,
+.header .navigation a:focus:after {
+  opacity: 1;
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+}
+
+.header .navigation a:hover:before,
+.header .navigation a:focus:before {
+  -webkit-transition: -webkit-transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.2s;
+  transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.2s;
+}
+
+.header .navigation a:hover:after,
+.header .navigation a:focus:after {
+  -webkit-transition: -webkit-transform 0s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0s 0.2s;
+  transition: transform 0s 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0s 0.2s;
+}
+
 .hero {
-text-transform: uppercase;
-font-size: 70px;
-font-weight: 700;
-padding: 5% 10%;
-margin: 15% 0;
+margin: 200px 0;    
+font-family: 'Tiemposheadline' ,Arial,sans-serif;
+color: #333;
+font-size: 54px;
+line-height: 58px;
+font-weight: 400;
+letter-spacing: -.2px;
+text-transform: capitalize;
+}
+
+.hero .title {
+/*font-family: 'Apercu light',Arial,sans-serif;
+text-transform: capitalize;
+letter-spacing: -1px;
+font-size: 40px;
+display: inline;    
+line-height: 60px;*/
 }
 .about_hero span,
 .hero .title span {
@@ -74,22 +258,22 @@ display: block;
 -webkit-animation-delay: 1s;
 animation-delay: 1s;
 }
-.hero .title > span:last-child {
+/*.hero .title > span:last-child {
 font-size: 20px;
 color: #888;
 font-weight: 400;
 letter-spacing: 9px;
 line-height: 48px;
-}
+}*/
 .projects {
 margin: 0 auto;
 -webkit-animation-delay: 1.5s;
 animation-delay: 1.5s;
 }
 .projects h2 {
-line-height: 120px;
-margin-bottom: 50px;
+margin-bottom: 60px;
 font-size: 18px;
+font-family: 'Apercu light',Arial,sans-serif;
 font-weight: 600;
 }
 .projects_inner {
@@ -240,9 +424,11 @@ font-weight: 600;
 .box h2 {
 float: left;
 width: 15%;
-font-weight: 600;
 line-height: 38px;
 margin-bottom: 20px;
+font-size: 20px;
+font-family: 'Apercu medium',Arial,sans-serif;
+letter-spacing: -.5px;
 }
 .box .time {
 color: #bbb;
@@ -260,6 +446,7 @@ width: 83%;
 .box > div h3 {
 line-height: 38px;
 color: #888;
+font-size: 18px
 }
 .box > div table {
 text-align: left;
@@ -371,14 +558,15 @@ transition: 0.5s all;
 }
 .footer {
 margin: 0 auto;
-font-size: 14px;
 overflow: hidden;
 -webkit-animation-delay: 2s;
-animation-delay: 2s;
-height: 100px;
-margin-top: 150px;
-padding-top: 40px;
-border-top: 1px solid #f2f2f2;
+animation-delay: 1.5s;
+width: 100%;
+color: #333;
+font-size: 16px;
+max-width: 1200px;
+font-family: 'Apercu regular',Arial,sans-serif;
+padding-top: 50px
 }
 .footer p {
 float: left;
@@ -392,7 +580,7 @@ display: inline-block;
 margin-right: 20px;
 }
 .footer ul li a:hover {
-text-decoration: underline;
+/*text-decoration: underline;*/
 }
 .about_hero {
 -webkit-animation-delay: 1s;
@@ -409,26 +597,50 @@ padding-left: 5px;
 .project_tech li a {
 color: #666;
 }
+.about_project_name {
+  color: #616161;
+  font-family: 'Apercu regular';
+}
 /*------------------------------------*\
     RESPONSIVE
 \*------------------------------------*/
-
+@media screen and (max-width: 992px) {
+    body {
+    padding:0;
+    }
+    .wrapper {
+    margin: 0;
+    border: 10px solid #f0f0f0;
+    padding: 80px;
+    box-shadow: none;
+    }
+    .mobile-nav {
+      border: 10px solid #f0f0f0;
+      border-top: none;
+    }
+}
 @media screen and (max-width:768px) {
     .wrapper {
-    width: 90%;
+    padding: 50px;
     }
-    .header {
-    padding: 15px 0;
+    .box > div {
+      width: auto;
     }
     .hero {
     font-size: 45px;
     margin-top: 120px;
     margin-bottom: 120px;
-    padding: 0 4%;
+    }
+    .header .logo-mobile {
+    display: block
+    }
+    .header .logo-full {
+    display: none;
     }
     .mobile-nav-button {
     display: block;
-    top: 14px;
+    top: 25px;
+    right: 0;
     }
     .mobile-nav-button span {
     top: 7px;
@@ -556,18 +768,22 @@ color: #666;
     .h3 > div {
     float: left;
     }
+    .box > div ul li, .box > div p, .box > div table, .box > div h3 {
+      font-size: 16px;
+    }
     .project_content .h3 .project_type {
+    text-align: left;
     margin-top: 10px;
     }
     .hero .title > span:last-child {
-    font-size: 16px;
-    color: #888;
+    font-size: 43px;
+    color: #343434;
     font-weight: 400;
-    letter-spacing: 4px;
-    line-height: 31px;
+    }
+    .footer {
+        display: none
     }
 }
-
 @media only screen and (min-width: 769px) and (max-width: 1100px) {
     .project,
     .project_thumbnail {
@@ -584,7 +800,35 @@ color: #666;
     width: 80%;
     }
 }
-
+@media screen and (max-width: 562px) {
+    .hero .title > span:last-child {
+    font-size: 16px;
+    color: #888;
+    letter-spacing: 2.6px;
+    line-height: 31px;
+    }
+}
+@media screen and (max-width: 480px) {
+    .wrapper {
+    border: none;
+    padding: 0;
+    width: 90%;
+    margin: 0 auto;
+    }
+    .header {
+    margin: 0
+    }
+    .header .logo a {
+    margin-bottom: 40px;
+    font-size: 35px;
+    }
+    .box > div {
+      width: auto;
+    }
+    .mobile-nav {
+    border: none
+    }
+}
 
 /*------------------------------------*\
     ANIMATION
